@@ -1,6 +1,6 @@
 ### Hi I'm JH 👋
 
-Readme 열심히 꾸미는 중...ㅎ.ㅎ
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JaeHyunGround)
 ![JaeHyunGround's github stats](https://github-readme-stats.vercel.app/api?username=JaeHyunGround&show_icons=true)
