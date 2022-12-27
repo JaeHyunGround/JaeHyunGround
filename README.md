@@ -1,6 +1,7 @@
 ### Hi I'm JH 👋
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JaeHyunGround)
 ![JaeHyunGround's github stats](https://github-readme-stats.vercel.app/api?username=JaeHyunGround&show_icons=true)
