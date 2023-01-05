@@ -17,5 +17,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=black">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white">
   </div>
 </div>
