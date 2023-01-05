@@ -8,7 +8,6 @@
     <div>🦁 LikeLion Univ 11th representative(2022.12-)</div>
 </div>
 
-
 <div>
   <h3>Tech Stack</h3>
   <div>
@@ -19,4 +18,14 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
   </div>
+</div>
+
+<div>
+    <h3>Aboue Me</h3>
+    <div>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+        <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+        <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gamil&logoColor=white">
+    </div>
 </div>
