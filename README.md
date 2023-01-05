@@ -23,9 +23,9 @@
 <div>
     <h3>Aboue Me</h3>
     <div>
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+        <a href="https://www.notion.so/8ef080f2efb441dc956e5cab2b986883"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
+        <a href="https://velog.io/@jaehyun_ground"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
+        <a href="https://www.instagram.com/x__drexx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
         <a href="mailto:gothddlek2603@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gothddlek2603@gmail.com"></a>
     </div>
 </div>
