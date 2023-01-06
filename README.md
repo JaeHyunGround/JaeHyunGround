@@ -5,7 +5,7 @@
     <h3>Profile</h3>
     <div>Kumoh National Institute of Technolog, Electronic IT Convergence Major(2020.03-)</div>
     <div>🦁 LikeLion Univ 10th FrontEnd Management (2021.12-2022.12)</div>
-    <div>🦁 LikeLion Univ 11th representative(2022.12-)</div>
+    <div>🦁 LikeLion Univ 11th Representative(2022.12-)</div>
 </div>
 
 <div>
