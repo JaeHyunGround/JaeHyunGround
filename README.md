@@ -1,5 +1,5 @@
 <div>
-    <h2>JaeHyun Ahn</h2>
+    <h2>JaeHyun Ahn </h2>
 </div> 
 <div>
     <h3>Profile</h3>
