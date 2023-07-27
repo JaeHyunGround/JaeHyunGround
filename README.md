@@ -31,7 +31,3 @@
         <a href="mailto:gothddlek2603@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gothddlek2603@gmail.com"></a>
     </div>
 </div>
-
-
-![JaeHyunGround's github stats](https://github-readme-stats.vercel.app/api?username=JaeHyunGround&show_icons=true)
-[![JaeHyunGround's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHyunGround&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JaeHyunGround)
