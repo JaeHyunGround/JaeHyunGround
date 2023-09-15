@@ -3,9 +3,12 @@
 </div> 
 <div>
     <h3>Profile</h3>
-    <div>Kumoh National Institute of Technolog, Electronic IT Convergence Major(2020.03-)</div>
+    <div>Kumoh National Institute of Technolog, Electronic IT Convergence Major(2020.03-2024.02)</div>
+
+    <h3>Activites</h3>
     <div>🦁 LikeLion Univ 10th FrontEnd Management (2021.12-2022.12)</div>
     <div>🦁 LikeLion Univ 11th Representative(2022.12-2023.12)</div>
+    <div>💻 프로그래머스 데브코스 프론트엔드 5기(2023.09-2024.03)</div>
 </div>
 
 <div>
