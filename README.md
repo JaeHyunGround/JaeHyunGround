@@ -21,3 +21,10 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
   </div>
 </div>
+
+<div>
+    <h3>Aboue Me</h3>
+    <div>
+        <a href="https://www.instagram.com/x__drexx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+    </div>
+</div>
