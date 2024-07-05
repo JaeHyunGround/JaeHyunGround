@@ -33,3 +33,18 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
   </div>
 </div>
+
+<br />
+
+<div align= "left">   
+  <a href="https://solved.ac/gothddlek">
+      <img 
+          width="300px"
+          src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gothddlek"/>
+  </a>  
+<a href="https://github.com/JaeHyunGround">
+      <img 
+          width="350px"
+          src="https://github-readme-stats.vercel.app/api?username=JaeHyunGround&show_icons=true&theme=holi"/>
+  </a>
+</div>
