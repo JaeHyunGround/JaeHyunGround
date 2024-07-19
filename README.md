@@ -1,6 +1,6 @@
 <div>
     <h2>Jaehyun Ahn</h2>
-    <a href="https://www.rallit.com/hub/resumes/1060112/%EC%95%88%EC%9E%AC%ED%98%84?isExpanded=true">resume</a>
+    <a href="https://www.rallit.com/hub/resumes/1060112">resume</a>
 </div> 
 <div>
     <h3>Activites</h3>
