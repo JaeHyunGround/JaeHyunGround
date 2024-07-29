@@ -36,6 +36,7 @@
 
 <br />
 
+<!--
 <div align= "left">   
   <a href="https://solved.ac/gothddlek">
       <img 
@@ -50,6 +51,7 @@
 </div>
 
 <br />
+-->
 
 <div align="left">
     
