@@ -1,8 +1,8 @@
 <div>
     <h2>Jaehyun Ahn</h2>
-    <a href="https://www.rallit.com/hub/resumes/1060112" target="_blank">resume</a>
+    <a href="https://www.rallit.com/hub/resumes/1060112">resume</a>
     <br />
-    <a href="https://third-september-27a.notion.site/Frontend-918add840f9a4651af57ffbf76dc196c" target="_blank">portfolio</a>
+    <a href="https://third-september-27a.notion.site/Frontend-918add840f9a4651af57ffbf76dc196c">portfolio</a>
 </div> 
 <div>
     <h3>Activites</h3>
