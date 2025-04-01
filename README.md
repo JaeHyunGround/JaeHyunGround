@@ -4,7 +4,7 @@
 
 <div>
     <h3>Work Experiences</h3>
-    <div>☁️ 스카이벤처스 | 프론트엔드 개발 (2025.03-)</div>
+    <div>☁️ 스카이벤처스 | FE (2025.03-)</div>
 </div>
 
 <div>
