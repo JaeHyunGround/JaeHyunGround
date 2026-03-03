@@ -4,7 +4,7 @@
     <h3>Activites</h3>
     <div>🌊 항해 플러스 프론트엔드 7기(2025.10-2025.12)</div>
     <div>💻 프로그래머스 데브코스 프론트엔드 5기(2023.09-2024.03)</div>
-    <div>🦁 LikeLion Univ 11th Cohort Representative (2022.12-2023.12)</div>
+    <div>🦁 LikeLion Univ 11th Representative (2022.12-2023.12)</div>
     <div>🦁 LikeLion Univ 10th Front-end Management (2021.12-2022.12)</div>
 </div>
 
